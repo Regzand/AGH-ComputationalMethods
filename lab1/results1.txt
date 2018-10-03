@@ -1,0 +1,35 @@
+== Calculating 0.730270 * 10000000 [iteration] - float
+Calculated as sum:    6386065.500000
+Calculated as mul:    7302700.500000
+Difference:            916635.000000
+Error:                     12.55%
+
+== Calculating 0.730270 * 10000000 [iteration] - double
+Calculated as sum:    7302700.281143
+Calculated as mul:    7302700.500000
+Difference:                 0.218857
+Error:                      0.00%
+
+== Calculating 0.492710 * 10000000 [iteration] - float
+Calculated as sum:    4997944.000000
+Calculated as mul:    4927100.000000
+Difference:             70844.000000
+Error:                      1.44%
+
+== Calculating 0.492710 * 10000000 [iteration] - double
+Calculated as sum:    4927099.943161
+Calculated as mul:    4927100.000000
+Difference:                 0.056839
+Error:                      0.00%
+
+== Calculating 0.004356 * 10000000 [iteration] - float
+Calculated as sum:      39962.527344
+Calculated as mul:      43560.000000
+Difference:              3597.472656
+Error:                      8.26%
+
+== Calculating 0.004356 * 10000000 [iteration] - double
+Calculated as sum:      43560.001068
+Calculated as mul:      43560.000000
+Difference:                 0.001068
+Error:                      0.00%

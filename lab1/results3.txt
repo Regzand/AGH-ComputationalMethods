@@ -1,0 +1,62 @@
+== Calculating 0.492710 * 10000000 (iteration)
+Calculated as sum:      4927099.943161
+Calculated as mul:      4927100.000000
+Difference:                   0.056839
+Error:                        0.00%
+Time:                         0.069s
+
+== Calculating 0.492710 * 10000000 (recursive)
+Calculated as sum:      4927100.000000
+Calculated as mul:      4927100.000000
+Difference:                   0.000000
+Error:                        0.00%
+Time:                         0.115s
+
+== Calculating 0.492710 * 10000000 (Kahan)
+Calculated as sum:      4927100.000000
+Calculated as mul:      4927100.000000
+Difference:                   0.000000
+Error:                        0.00%
+Time:                         0.127s
+
+== Calculating 0.492710 * 100000000 (iteration)
+Calculated as sum:     49270999.431610
+Calculated as mul:     49271000.000000
+Difference:                   0.568390
+Error:                        0.00%
+Time:                         0.360s
+
+== Calculating 0.492710 * 100000000 (recursive)
+Calculated as sum:     49271000.000000
+Calculated as mul:     49271000.000000
+Difference:                   0.000000
+Error:                        0.00%
+Time:                         0.870s
+
+== Calculating 0.492710 * 100000000 (Kahan)
+Calculated as sum:     49271000.000000
+Calculated as mul:     49271000.000000
+Difference:                   0.000000
+Error:                        0.00%
+Time:                         1.178s
+
+== Calculating 0.492710 * 1000000000 (iteration)
+Calculated as sum:    492709994.316101
+Calculated as mul:    492709984.000000
+Difference:                  10.316101
+Error:                        0.00%
+Time:                         3.266s
+
+== Calculating 0.492710 * 1000000000 (recursive)
+Calculated as sum:    492710016.000000
+Calculated as mul:    492709984.000000
+Difference:                  32.000000
+Error:                        0.00%
+Time:                         8.127s
+
+== Calculating 0.492710 * 1000000000 (Kahan)
+Calculated as sum:    492710080.000000
+Calculated as mul:    492709984.000000
+Difference:                  96.000000
+Error:                        0.00%
+Time:                        11.252s
