@@ -10,7 +10,7 @@ int main(){
 
     printf("Calculating %f * %d (iteration)\n", a, N);
 
-    double sum = 0;
+    float sum = 0;
     for(int i = 0; i < N; i++)
         sum += a;
 

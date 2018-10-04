@@ -1,62 +1,68 @@
 == Calculating 0.492710 * 10000000 (iteration)
-Calculated as sum:      4927099.943161
+Calculated as sum:      4997944.000000
 Calculated as mul:      4927100.000000
-Difference:                   0.056839
-Error:                        0.00%
-Time:                         0.069s
+Difference:               70844.000000
+Error:                        1.44%
+Time:                         0.042s
 
 == Calculating 0.492710 * 10000000 (recursive)
 Calculated as sum:      4927100.000000
 Calculated as mul:      4927100.000000
 Difference:                   0.000000
 Error:                        0.00%
-Time:                         0.115s
+Time:                         0.091s
 
 == Calculating 0.492710 * 10000000 (Kahan)
 Calculated as sum:      4927100.000000
 Calculated as mul:      4927100.000000
 Difference:                   0.000000
 Error:                        0.00%
-Time:                         0.127s
+Time:                         0.147s
+
+
+
 
 == Calculating 0.492710 * 100000000 (iteration)
-Calculated as sum:     49270999.431610
+Calculated as sum:      8388608.000000
 Calculated as mul:     49271000.000000
-Difference:                   0.568390
-Error:                        0.00%
-Time:                         0.360s
+Difference:            40882392.000000
+Error:                       82.97%
+Time:                         0.350s
 
 == Calculating 0.492710 * 100000000 (recursive)
 Calculated as sum:     49271000.000000
 Calculated as mul:     49271000.000000
 Difference:                   0.000000
 Error:                        0.00%
-Time:                         0.870s
+Time:                         0.832s
 
 == Calculating 0.492710 * 100000000 (Kahan)
 Calculated as sum:     49271000.000000
 Calculated as mul:     49271000.000000
 Difference:                   0.000000
 Error:                        0.00%
-Time:                         1.178s
+Time:                         1.124s
+
+
+
 
 == Calculating 0.492710 * 1000000000 (iteration)
-Calculated as sum:    492709994.316101
+Calculated as sum:      8388608.000000
 Calculated as mul:    492709984.000000
-Difference:                  10.316101
-Error:                        0.00%
-Time:                         3.266s
+Difference:           484321376.000000
+Error:                       98.30%
+Time:                         3.244s
 
 == Calculating 0.492710 * 1000000000 (recursive)
 Calculated as sum:    492710016.000000
 Calculated as mul:    492709984.000000
 Difference:                  32.000000
 Error:                        0.00%
-Time:                         8.127s
+Time:                         8.037s
 
 == Calculating 0.492710 * 1000000000 (Kahan)
 Calculated as sum:    492710080.000000
 Calculated as mul:    492709984.000000
 Difference:                  96.000000
 Error:                        0.00%
-Time:                        11.252s
+Time:                        11.254s
